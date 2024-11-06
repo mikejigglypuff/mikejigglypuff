@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vscode Source Control은 조심해서 사용하자
-excerpt: ???: Vscode씨, 변경사항이 even하게 push되지 않았어요. 저는 commit의 형식을 굉장히 중요시 여기거든요.
+excerpt: Vscode씨, 변경사항이 even하게 push되지 않았어요. 저는 commit의 형식을 굉장히 중요시 여기거든요.
 ---
 
 > OO 씨는 Github로 소스를 관리하는 팀 프로젝트를 진행하면서 레포지토리에 변경 사항이 생길 때마다 pull을 받고 있었다.
