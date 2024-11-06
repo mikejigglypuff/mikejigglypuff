@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vscode씨, git 관리 탈락입니다.
+title: Vscode Source Control은 조심해서 사용하자
 excerpt: ???: Vscode씨, 변경사항이 even하게 push되지 않았어요. 저는 commit의 형식을 굉장히 중요시 여기거든요.
 ---
 
